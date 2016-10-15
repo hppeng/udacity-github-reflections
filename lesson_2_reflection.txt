@@ -1,0 +1,14 @@
+What happens when you initialize a repository? 
+
+It creates a git repository locally.
+
+Why do you need to do it?
+So we can start having revision control.
+
+How is the staging area different from the working directory and the repository? 
+
+It is a buffer area where you can store meaningful logic changes before committing. It is just a buffer for you to think about reasonable changes you want to commit in one shot.
+
+What value do you think it offers?
+
+It offers places for reflection.
